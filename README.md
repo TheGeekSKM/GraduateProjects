@@ -4,7 +4,7 @@ Welcome to my **Graduate Game Development Portfolio**! This repository hosts bui
 
 ---
 
-### 🚀 Quick Start
+## 🚀 Quick Start
 
 1. Clone this repository to get started:
    ```bash
@@ -13,13 +13,13 @@ Welcome to my **Graduate Game Development Portfolio**! This repository hosts bui
 2. Navigate to each project directory for individual game instructions and builds.
 
 
-### 📜 Table of Contents
+## 📜 Table of Contents
 1. **Project 1:** Capsule Collision
 2. **Project 2:** Priest With A Gun
 3. More Projects Coming Soon...
 
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 ### **Project 1: Capsule Collision** - *(Genre: UI-based Strategy)*
 
