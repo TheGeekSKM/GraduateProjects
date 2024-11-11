@@ -20,7 +20,6 @@ Welcome to my **Graduate Game Development Portfolio**! This repository hosts bui
 
 
 ### 🌟 Featured Projects
-## 🌟 Featured Projects
 
 ### **Project 1: Capsule Collision** - *(Genre: UI-based Strategy)*
 
